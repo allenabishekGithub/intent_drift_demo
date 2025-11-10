@@ -1,0 +1,7 @@
+{
+    "constraints": [
+      {"name":"latency_ms","op":"<=","target":10,"weight":2,"norm":10},
+      {"name":"loss_pct","op":"<=","target":0.1,"weight":3,"norm":0.1},
+      {"name":"throughput_mbps","op":">=","target":1000,"weight":1,"norm":1000}
+    ]
+  }

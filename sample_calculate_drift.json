@@ -1,0 +1,5 @@
+{
+    "actuals": {"latency_ms":14, "loss_pct":0.3, "throughput_mbps":800},
+    "metric": "l2",
+    "theta": 0.5
+  }
